@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../typescript practice/structural design patterns"
+		},
+		{
+			"path": "../typescript practice/creational design patterns"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
